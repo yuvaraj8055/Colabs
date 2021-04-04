@@ -47,10 +47,10 @@ Please note that using Colaboratory for cryptocurrency mining is disallowed enti
 
 [Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
 [License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
-[RDP Issues]:           https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Colab%20RDP?label=Issues
+[RDP Issues]:           https://img.shields.io/github/issues/yuvaraj8055/Colab/Colab%20RDP?label=Issues
 [RDP Notebook]:         https://colab.research.google.com/github/yuvaraj8055/Colabs/blob/main/Colab%20RDP.ipynb
-[Code Issues]:           https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Code%20Server?label=Issues
-[Code Notebook]:         https://colab.research.google.com/github/yuvaraj8055/Colabs/blob/main/Code%20Server/Code%20Server.ipynb
-[Torrent Issues]:       https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Torrent%20Downloader?label=Issues
-[Torrent Notebook]:     https://colab.research.google.com/github/yuvaraj8055/Colabs/blob/main/Torrent%20Downloader/Torrent%20Downloader.ipynb
+[Code Issues]:           https://img.shields.io/github/issues/yuvaraj8055/Colab/Code%20Server?label=Issues
+[Code Notebook]:         https://colab.research.google.com/github/yuvaraj8055/Colabs/blob/main/Code%20Server.ipynb
+[Torrent Issues]:       https://img.shields.io/github/issues/yuvaraj8055/Colab/Torrent%20Downloader?label=Issues
+[Torrent Notebook]:     https://colab.research.google.com/github/yuvaraj8055/Colabs/blob/main/Torrent%20Downloader.ipynb
 [Warning]:              https://img.shields.io/badge/Warning-red
