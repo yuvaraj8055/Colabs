@@ -1,4 +1,5 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonape.com%2Fyahoo-icon-logo-icon-svg-png.html&psig=AOvVaw3gNC0ql1YVHUmCPwirRlOl&ust=1617624217061000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD84v3F5O8CFQAAAAAdAAAAABAE" height="50" width="50"/>
+<img src="![image](https://user-images.githubusercontent.com/54707301/113508204-4ca7bd00-956c-11eb-85d8-7cc22863e7f5.png)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonape.com%2Fyahoo-icon-logo-icon-svg-png.html&psig=AOvVaw3gNC0ql1YVHUmCPwirRlOl&ust=1617624217061000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD84v3F5O8CFQAAAAAdAAAAABAE" height="50" width="50"/>
 
 # Colab Hacks [![Warning][Warning]](#Warning-Not-for-Cryptocurrency-Mining) [![License: MIT][License-Badge]](LICENSE.md)
 Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
